@@ -7,4 +7,4 @@ Client/server application developed during a hackathon.
 - `client/`
 - `server/`
 
-Historical learning or early-career work, preserved privately for reference.
+Historical learning or early-career work, preserved for reference.
